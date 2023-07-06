@@ -1,2 +1,3 @@
 # obrigado-2023
-pagina de agradecimento
+
+pagina de agradecimento após incrições em formulario.
